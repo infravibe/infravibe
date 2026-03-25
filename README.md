@@ -29,7 +29,7 @@ Software Engineer with experience building **large-scale distributed systems, AI
 Java, Spring Boot, Python (FastAPI, Flask), gRPC  
 
 **Infrastructure & DevOps:**  
-Kubernetes (EKS), Terraform, Helm, Jenkins  
+Kubernetes (EKS), Terraform, Helm, Jenkins, AWS, GCP, Ace Cloud  
 
 **Realtime Systems:**  
 WebRTC, LiveKit, SIP, STUN/TURN  
