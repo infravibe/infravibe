@@ -2,7 +2,6 @@
 
 I build systems, not just services — distributed backend, infrastructure & AI working together at scale
 
----
 
 ## 🚀 About Me
 
@@ -14,7 +13,6 @@ Software Engineer with experience building **large-scale distributed systems, AI
 - Developed **real-time voice AI systems (WebRTC + SIP + LiveKit)**
 - Focused on **performance, observability, and production reliability**
 
----
 
 ## ⚡ What I Work On
 
@@ -24,7 +22,6 @@ Software Engineer with experience building **large-scale distributed systems, AI
 - 🤖 AI/LLM systems (LLMOps, RAG, agentic workflows)
 - 📊 Data platforms (Spark, Kafka, Iceberg, Hive)
 
----
 
 ## 🧰 Tech Stack
 
@@ -43,7 +40,6 @@ Apache Spark, Kafka, Feast, Kubeflow
 **Observability:**  
 Grafana Stack (Mimir, Loki, Tempo, Alloy)  
 
----
 
 ## 🚀 Featured Work
 
@@ -52,7 +48,6 @@ Real-time, low-latency voice system using WebRTC, SIP & LiveKit on AWS EKS
 - Solved NAT traversal & media routing challenges  
 - Designed auto-scaling, fault-tolerant infrastructure  
 
----
 
 ### 🔹 Elevate AI — Multi-Tenant SaaS Platform
 Event-driven microservices platform with AI workflows  
@@ -60,14 +55,12 @@ Event-driven microservices platform with AI workflows
 - Kafka-based async processing for scalability  
 - Integrated AI content generation pipelines  
 
----
 
 ### 🔹 LLMOps Platform
 Deployed LLMs on Kubernetes using Ray & DeepSpeed  
 - Distributed inference at scale  
 - Integrated with enterprise ML pipelines  
 
----
 
 ### 🔹 MLHub — Data & Feature Platform
 End-to-end ML platform with governance & feature store  
@@ -75,7 +68,6 @@ End-to-end ML platform with governance & feature store
 - Kubeflow orchestration + Feast feature store  
 - 100% data lineage with Apache Atlas  
 
----
 
 ## 📊 Impact
 
@@ -84,7 +76,6 @@ End-to-end ML platform with governance & feature store
 - 🔁 Automated CI/CD pipelines with **zero-error deployments**  
 - 📈 Built systems supporting **large-scale AI-driven workloads**  
 
----
 
 ## 📈 Current Focus
 
@@ -92,14 +83,12 @@ End-to-end ML platform with governance & feature store
 - Distributed Systems at Scale  
 - Real-time Communication Systems  
 
----
 
 ## ✍️ Writing
 
 I write about backend systems, DevOps, and AI infrastructure:  
 👉 https://medium.com/@akashsahani2001  
 
----
 
 ## 🤝 Connect
 
