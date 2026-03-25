@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="banner" />
+</p>
+
 # 👋 Hi, I'm Akash Sahani
 
 I build systems, not just services — distributed backend, infrastructure & AI working together at scale
